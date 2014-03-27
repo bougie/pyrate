@@ -13,6 +13,10 @@ Pour l'installation, rien de plus simple :
 ## Recuperation des sources
 Cloner ensuite les sources dans un dossier.
 
+Lancer ensuite le script d'installation
+
+    # python install.py
+
 ## Configuration
 Pour configurer pyrate :
 
