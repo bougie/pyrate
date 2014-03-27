@@ -7,10 +7,8 @@ Pyrate depend de la bibliotheque feedparser et de sqlite3.
 
 Pour l'installation, rien de plus simple :
 
-    ```
-    pip install feedparser
-    pip install sqlite3
-    ```
+    # pip install feedparser
+    # pip install sqlite3
 
 ## Recuperation des sources
 Cloner ensuite les sources dans un dossier.
@@ -18,17 +16,13 @@ Cloner ensuite les sources dans un dossier.
 ## Configuration
 Pour configurer pyrate :
 
-    ```
-    cp config.sample.py config.py
-    vi config.py
-    ```
+    # cp config.sample.py config.py
+    # vi config.py
 
 # Utilisation
 
 Il suffit de lancer le script main.py :
 
-    ```
-    python main.py
-    ```
+    # python main.py
 
 Mettre ce script en crontab pour automatiser les traitements.
